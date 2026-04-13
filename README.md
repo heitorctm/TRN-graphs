@@ -36,19 +36,8 @@ Depending on the notebook content, the repository may involve:
 
 - graph representation
 - nodes and edges
-- JSON-based graph modeling
 - scenario analysis
 - graph visualization
 - algorithm experimentation
 - academic graph studies
 
-## Technologies
-
-- Python
-- Jupyter Notebook
-- JSON
-- HTML
-
-## Author
-
-Heitor Teixeira
