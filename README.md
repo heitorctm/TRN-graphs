@@ -1,4 +1,4 @@
-# grafos
+# graphs
 
 This repository contains study materials and practical experiments related to **graph modeling and analysis**.
 
